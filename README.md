@@ -1,4 +1,3 @@
-# Thresholding
 # THRESHOLDING
 
 ## Aim
